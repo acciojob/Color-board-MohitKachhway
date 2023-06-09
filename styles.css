@@ -9,7 +9,7 @@
 	width: 40px;
 	height: 40px;
 	background-color: rgb(29,29,29);
-	transition: backgroung-color 0.3s;
+	transition: background-color 1s;
 }
 div.square:hover{
 	background-color: red;
