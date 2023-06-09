@@ -11,6 +11,6 @@
 	background-color: rgb(29,29,29);
 	transition: backgroung-color 0.3s;
 }
-.square:hover{
+div.square:hover{
 	background-color: red;
 }
